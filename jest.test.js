@@ -1,12 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-23 22:11:23
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-14 19:38:43
- * @FilePath: /auto-test-jest-learn/2.jest的匹配器/jest.test.js
- * @Description:
- */
-
 test("测试", () => {
   // toBe 匹配器 matchers 测试期待是否与匹配器中的值相等 相当于object.is ===
   const a = { name: 'Zero' };
